@@ -1,0 +1,25 @@
+{
+    "name": "mervy/php-profissional-orientado-a-objetos",
+    "description": "Curso do Alexandre do Youtube sobre PHP Profissional Orientado a Objetos",
+    "require": {
+        "php": ">=8.2",
+        "league/plates": "^3.5"
+    },
+    "license": "GNU",
+    "autoload": {
+        "psr-4": {
+            "Mervy\\PhpProOOP\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rogério Soares",
+            "email": "rgrsoares@yahoo.com.br"
+        }
+    ],
+    "minimum-stability": "stable",
+    "links": {
+        "repo": "https://github.com/mervy/php-profissional-orientado-a-objetos",
+        "tutorial": "https://www.youtube.com/playlist?list=PLyugqHiq-SKdK8YjyV7x51IWZxpk9wVQN"
+    }
+}
